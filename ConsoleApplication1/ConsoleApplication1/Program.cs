@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("first change");
             Console.WriteLine("second change");
             Console.WriteLine("third change");
+
+            Console.WriteLine("fourth change");
         }
     }
 }
